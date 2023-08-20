@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "#  ",
+        "#  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:seagrass"
+        }
+    },
+    "result": {
+        "item": "minecraft:salmon",
+        "count": 1
+    },
+    "group": "fish"
+}

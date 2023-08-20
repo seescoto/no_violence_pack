@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "#C ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_gray_dye"
+        },
+        "C": {
+            "item": "minecraft:chicken"
+        }
+    },
+    "result": {
+        "item": "minecraft:rabbit",
+        "count": 1
+    },
+    "group": "meats"
+}

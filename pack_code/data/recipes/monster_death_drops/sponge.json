@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "B#B",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:seagrass"
+        },
+        "B": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "item": "minecraft:sponge",
+        "count": 1
+    }
+}
