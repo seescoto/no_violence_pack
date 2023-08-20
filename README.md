@@ -1,8 +1,8 @@
-# no_violence_pack
+# No violence pack
 
 A minecraft datapack that allows users to win (get to the end) and experience all the game has to offer on peaceful mode. The user doesn't have to kill any animals, fish for anything, or fight any mobs, but will still have the means to obtain all useful resources that exist in the game.
 
-Recipe images and json template from [destruc7ion's crafting site](https://crafting.thedestruc7ion.ca)
+Recipe images and json template from [destruc7ion's crafting site.](https://crafting.thedestruc7ion.ca)
 
 Resources listed as
 
@@ -50,13 +50,38 @@ Resources listed as
 
 ## MEATS/FISH
 
+-  raw beef
+   -  crafting table
+   -  1 bucket of milk. Any position. Returns 2 beef.
+   -  ![](./images/beef.png)
 -  raw chicken
--  raw cod
+   -  crafting table
+   -  1 egg. Any position.
+   -  ![](./images/chicken.png)
+-  cod
+   -  crafting table
+   -  3 sea grass placed horizontally at the top of the crafting box.
+   -  ![](./images/cod.png)
 -  raw porkchop
+   -  crafting table
+   -  1 pink dye to the left of 1 beef. Any position.
+   -  ![](./images/porkchop)
 -  pufferfish
+   -  crafting table
+   -  3 sea grass placed horizontally at the bottom of the crafting box.
+   -  ![](./images/pufferfish)
 -  raw rabbit
+   -  crafting table
+   -  1 light gray dye to the left of 1 chicken. Any position.
+   -  ![](./images/rabbit.png)
 -  raw salmon
+   -  crafting table
+   -  3 sea grass placed vertically to the left of the crafting box.
+   -  ![](./images/salmon.png)
 -  tropical fish
+   -  crafting table
+   -  3 seagrass placed horizontally in the middle of the crafting box.
+   -  ![](./images/tropical_fish.png)
 
 ## NORMALLY DROPPED BY MONSTERS AT TIME OF DEATH
 
@@ -75,3 +100,9 @@ Resources listed as
 -  string (spiders & cats; breaking a cobweb)
 -  totem of undying (evokers)
 -  trident (rare drop from drowned)
+
+## OTHER
+
+-  nautilus shell (fishing; drowned on death; trading)
+-  froglights (after a frog eats a tiny magma cube. Color depends on variant of frog that ate the cube.)
+-  saddle (fishing; specific mobs on death; trading)
