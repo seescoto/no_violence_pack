@@ -14,7 +14,7 @@ Recipe images and json template from [destruc7ion's crafting site](https://craft
 
 -  bone (fish)
    -  3 bone meal stacked on top of each other. Any position.
-   -  [](./images/bone.png)
+   -  ![](./images/bone.png)
 -  feather (chickens, parrots)
 -  glow ink sac (glow ink squids)
 -  ink sac (squids)
